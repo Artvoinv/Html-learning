@@ -1,0 +1,12 @@
+.container-fluid {
+    padding-top: 0;
+}
+.header {
+    height: 70px;
+}
+.contents {
+    margin-top: 20px;
+}
+.section {
+    height: 1500px;
+}
